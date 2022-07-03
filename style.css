@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Rubik+Moonrocks&display=swap');
+body{
+    font-family: 'Caveat', cursive;
+}
+h1, h2, h3{
+    font-family: 'Rubik Moonrocks', cursive;
+}
+p{
+    font-size: 30px;
+}
+
+.wrapper{
+    margin: 0 auto;
+    max-width: 980px;
+}
